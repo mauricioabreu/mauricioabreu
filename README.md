@@ -2,7 +2,7 @@ hello,
 
 my name is Mauricio
 
-I'm a software developer working @globocom
+software developer working @globocom
 
 my main interests are: programming languages, video streaming, web servers and content delivery networks
 
