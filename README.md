@@ -1,10 +1,12 @@
-hello, 
+Hello, 
 
 I am Mauricio (:
 
-software developer working @globocom
+Software developer working @globocom
 
-my main interests are: programming languages, video streaming, web servers and content delivery networks
+Currently, I'm building [Dionysia](https://github.com/dionysia-dev/dionysia), a live streaming platform
+
+My main interests are: programming languages, video streaming, web servers and content delivery networks
 
 ---
 
