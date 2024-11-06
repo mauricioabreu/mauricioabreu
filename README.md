@@ -2,7 +2,7 @@ Hello,
 
 I am Mauricio (:
 
-Software developer working @globocom
+Software developer working @clerk
 
 Currently, I'm building [Dionysia](https://github.com/dionysia-dev/dionysia), a live streaming platform
 
