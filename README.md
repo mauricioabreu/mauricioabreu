@@ -1,4 +1,4 @@
-Hello, 
+Hi, 
 
 I am Mauricio (:
 
