@@ -2,7 +2,7 @@ Hi,
 
 I am Mauricio (:
 
-Software Engineer working @clerk
+Software Engineer working [@Clerk](https://github.com/clerk)
 
 Currently, I'm building [Dionysia](https://github.com/dionysia-dev/dionysia), a live streaming platform
 
